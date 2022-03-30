@@ -1,0 +1,16 @@
+{
+  "name": "payidar_ekonomi_bot",
+  "version": "1.0.0",
+  "description": "Pâyidar Ekonomi Bot",
+  "main": "Payidar.js",
+  "scripts": {
+    "test": "node Payidar.js"
+  },
+  "author": "Pâyidar",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.3"
+  }
+}
